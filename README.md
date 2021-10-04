@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Kovács Norbert
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning in the Eszterhazy University in Eger
+Kovács Norbertnek hívnak, és jelenleg az Eszterházy Károly Katolikus Egyetem tanulója vagyok.
+Programtervező Informatika szakon, végzős levelezősként.
 
-- 📫 You can check out my website at: kovacs-norbert.surge.sh
+Elsősorban a Python nyelvet emelném ki, mint erősségem, de rengeteget kell még tanulnom. A hétköznapokban Linux operációs rendszerekkel dolgozom.
 
 <!---
 Gellifree/Gellifree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
