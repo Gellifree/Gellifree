@@ -10,7 +10,7 @@ English
 My name is Norbert Kovács, I am a University student at Eszterházy Károly Catholic University.
 I am learning Computer Science, as a Graduate correspondence student (higher education vocational training).
 
-I am wrking as a Junior application developer a member of ZF-ITC. At the moment, mainly I am working on Angular projects, but we have a lot of different tasks to solve on a daily basis.
+I am working as a Junior application developer as a member of ZF-ITC. At the moment, mainly I am working on Angular projects, but we have a lot of different tasks to solve on a daily basis.
 
 
 <!---
