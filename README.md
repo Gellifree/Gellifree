@@ -1,17 +1,9 @@
-Magyar
+Hello! My name is Norbert Kovács.
 
-Kovács Norbertnek hívnak, és jelenleg az Eszterházy Károly Katolikus Egyetem tanulója vagyok.
-Programtervező Informatika szakon, végzős levelezősként (Felsőoktatási szakképzés).
+I am currently working as a Junior Application Developer at ZF-ITCH. My job includes designing complete systems for OEM Keymanagement projects and participating in the development, including backend and frontend development as well.
+Working at ZF is truly fulfilling, thanks to the incredible team that surrounds me.
 
-Junior alkalmazásfejlesztőként dolgozom főállásban a ZF-ITC tagjaként. Jelenleg főleg Angular projektekkel dolgozom, de sok egyéb feladat megoldása is a hétköznapok közé tartozik.
-
-English
-
-My name is Norbert Kovács, I am a University student at Eszterházy Károly Catholic University.
-I am learning Computer Science, as a Graduate correspondence student (higher education vocational training).
-
-I am working as a Junior application developer as a member of ZF-ITC. At the moment, mainly I am working on Angular projects, but we have a lot of different tasks to solve on a daily basis.
-
+Other than programming, I have a lot of hobbies. Mainly graphic design related and woodworking. But I really enjoy any creative work. From Videoediting to making animation, or building something with my own hands.
 
 <!---
 Gellifree/Gellifree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
